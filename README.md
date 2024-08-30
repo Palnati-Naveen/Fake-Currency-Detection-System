@@ -48,3 +48,5 @@ This currency detection currently works only for Indian Currency notes of denomi
 
 ## That's all
 That's all about this project, folks!
+
+![Screenshot (107)](https://github.com/user-attachments/assets/bac97dc8-b4ed-4d74-8784-b37cf6525f00)
